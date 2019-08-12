@@ -10,3 +10,5 @@ Run ninja-ide
 && python3 ninja-ide.py
 
 Variant 2 tap klick run file ninja-ide.py
+
+Problem ? Not run ? apt install python3-pyqt5.qtquick qml-module-qtquick2
